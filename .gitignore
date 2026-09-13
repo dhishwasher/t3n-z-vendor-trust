@@ -1,0 +1,8 @@
+contract/target/
+client/node_modules/
+client/dist/
+client/state.json
+client/agent-card.json
+client/.env
+**/*.key
+.env
